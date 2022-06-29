@@ -7,7 +7,7 @@ RESTFul API para recuperar noticias de la pagina abc.com.py
 
 **Linux**
 ```
-mvnw spring-boot:run
+./mvnw spring-boot:run
 ```
  
  **Windows**
