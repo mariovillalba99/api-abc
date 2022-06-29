@@ -3,14 +3,14 @@ RESTFul API para recuperar noticias de la pagina abc.com.py
 
 
 
-## Ejecución  ⚙️
+## Ejecución de la API  ⚙️
 
 **Linux**
 ```
-
+mvnw spring-boot:run
 ```
  
  **Windows**
  ```
-
+mvnw.cmd spring-boot:run
 ```
