@@ -13,9 +13,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>apiabc</name>
     <description>apiabc</description>
-    <properties>
-        <java.version>${java.version}</java.version>
-    </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -58,6 +55,7 @@
 
     <build>
         <plugins>
+
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
