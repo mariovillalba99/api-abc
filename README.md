@@ -1,5 +1,6 @@
 # api-abc
 RESTFul API para recuperar noticias de la pagina abc.com.py
+Al ejecutar el archivo *bash/cmd* **mvnw**, la API se despliega por defecto en un servidor Tomcat embedido en el puerto 8080.
 
 
 
